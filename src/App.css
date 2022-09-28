@@ -1,0 +1,29 @@
+.container{
+  background-color: whitesmoke;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.etablissemennt{
+  
+}
+.stagiaire{
+  display: flex;
+}
+.stagiaire img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+} 
+.infostag{
+  flex-grow: 1;
+  margin-left: 20px;
+}
+.infostag h2{
+  margin-bottom: 0px;
+}
+.infostag h4{
+  margin-top: 0px;
+}
